@@ -1,0 +1,38 @@
+class Solution:
+    def maxDepthAfterSplit(self, seq: str) -> list[int]:
+        ans = []
+        depth = 0
+
+        for ch in seq:
+
+            if ch == "(":
+                # Hint: increase depth first, then decide
+                # the group based on odd/even depth
+                depth += 1
+
+                if depth % 2 == 1:
+                    ans.append(0)
+                else:
+                    ans.append(1)
+
+            else:
+                # Hint: this ')' belongs to the current depth.
+                # Decide its group BEFORE decreasing depth.
+                if depth % 2 == 1:
+                    ans.append(0)
+                else:
+                    ans.append(1)
+
+                depth -= 1
+
+        return ans
+
+
+# Create object
+solution = Solution()
+
+# Method call
+seq = "(()())"
+result = solution.maxDepthAfterSplit(seq)
+
+print(result)
