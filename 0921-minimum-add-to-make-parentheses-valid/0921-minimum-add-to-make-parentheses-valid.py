@@ -1,0 +1,17 @@
+class Solution:
+    def minAddToMakeValid(self, s: str) -> int:
+        balance=0
+        ans=0
+        for ch in s:
+            if ch=='(':
+                balance+=1
+            else:
+                balance-=1
+
+                if balance < 0:
+                    ans+=1
+                    balance=0
+                    
+
+
+        return ans+ balance
