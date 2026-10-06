@@ -6,6 +6,7 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0856-score-of-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
@@ -22,4 +23,12 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
