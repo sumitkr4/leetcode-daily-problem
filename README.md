@@ -6,6 +6,7 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0301-remove-invalid-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0856-score-of-parentheses) |
@@ -43,4 +44,16 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0301-remove-invalid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
