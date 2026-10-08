@@ -10,16 +10,19 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 | [0301-remove-invalid-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
