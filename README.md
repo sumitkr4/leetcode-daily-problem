@@ -32,10 +32,12 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0014-longest-common-prefix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -60,4 +62,16 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
