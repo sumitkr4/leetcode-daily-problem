@@ -38,6 +38,7 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/0014-longest-common-prefix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +75,8 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
