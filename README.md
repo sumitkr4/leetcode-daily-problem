@@ -34,6 +34,7 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -89,4 +90,8 @@ My daily journey of mastering DSA with Python — focusing on understanding patt
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sumitkr4/leetcode-daily-problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
