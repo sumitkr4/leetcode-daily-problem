@@ -5,13 +5,13 @@ class Solution:
 
             return ""
 
-        result = []
+        result = ""
 
         for _ in range(num):
 
             digit = min(9, sum)
 
-            result.append(str(digit))
+            result+=str(digit)
 
             sum -= digit
 
